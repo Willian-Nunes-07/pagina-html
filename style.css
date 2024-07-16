@@ -1,0 +1,22 @@
+h1{
+
+    padding: 10px;
+    color: blueviolet;
+    background-color: yellow;
+}
+
+.secao1{
+    background-color: aqua;
+    padding:  10px;
+    color: blue;
+}
+
+.secao2{
+    padding: 10px;
+    background-color: blanchedalmond;
+    color: black;
+}
+
+h2{
+    padding: 10px;
+}
